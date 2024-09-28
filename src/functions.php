@@ -7,4 +7,5 @@ function mensaje(){
 }
 echo "Mensaje de prueba Master";
 echo "Esto es un mensaje de prueba desde funcionalidad-1";
+echo "Nueva funcionalidad desde funcionalidad-2";
 ?>
